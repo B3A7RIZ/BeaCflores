@@ -1,0 +1,6 @@
+a=float(input("Dame calificacion 1: "))
+b=float(input("Dame calificacion 2: "))
+c=float(input("Dame calificacion 3: "))
+d=float(input("Dame calificacion 4: "))
+e=float(input("Dame calificacion 5: "))
+print("Promedio general: ",(a+b+c+d+e)/5)
